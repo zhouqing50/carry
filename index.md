@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### [rocketMq](https://my.oschina.net/nark/blog/116299)
 
-### [测试rocketmq](/rocketmq.md)
+### [测试rocketmq](rocketmq.md)
 
 [Link](url) and ![Image](src)
 
