@@ -6,8 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### [rocketMq](https://my.oschina.net/nark/blog/116299)
 
+### [rocketMq222](/rocketmq.md)
 
-##### [rocketMq222](carry/rocketmq.md)
 [Link](url) and ![Image](src)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
