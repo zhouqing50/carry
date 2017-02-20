@@ -8,9 +8,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
 ##### 使用场景
 
 
@@ -62,7 +59,6 @@ broket端的consumequeue会保存tag的hashcode，方便过滤消息
 - producer将消息发送给Broker时，需要制定发送到哪一个队列中，默认情况下，producer会轮询的将消息发送到每个队列中（所有broker下的Queue合并成一个List去轮询）。
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
