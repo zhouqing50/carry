@@ -1,10 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/zhouqing50/carry/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### [rocketMq](https://my.oschina.net/nark/blog/116299)
+### [mysql](mysql.md)
 
 ### [测试rocketmq](rocketmq.md)
 
